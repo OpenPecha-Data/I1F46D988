@@ -3,5 +3,72 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W23446
   title: འཛི་སྒར་ཀོང་སྤྲུལ་གསུང་ཕྱོགས་བསྡེབས།
-  volume: ''
+  volume:
+    736d793f375c47e286408c39135ec4a1:
+      image_group_id: I1877
+      title: ''
+      volume_number: 1
+      total_pages: 757
+    8935f9702eb84cb5916ef144b7b87e07:
+      image_group_id: I1878
+      title: ''
+      volume_number: 2
+      total_pages: 709
+    a5c81ad6c6284c7fb72a54b0a6bc0e4c:
+      image_group_id: I1879
+      title: ''
+      volume_number: 3
+      total_pages: 699
+    30601e29778a4fe682c0458284c04338:
+      image_group_id: I1880
+      title: ''
+      volume_number: 4
+      total_pages: 673
+    5c92de7ba4474544889b81e42bba2c4b:
+      image_group_id: I1881
+      title: ''
+      volume_number: 5
+      total_pages: 683
+    8e02895ab5f04fc38f4b55b9350c8f47:
+      image_group_id: I1882
+      title: ''
+      volume_number: 6
+      total_pages: 663
+    27dd670efff64cb69680abf98816ad94:
+      image_group_id: I1883
+      title: ''
+      volume_number: 7
+      total_pages: 654
+    7a416a00480a418aa58e83b76ecb9ed2:
+      image_group_id: I1884
+      title: ''
+      volume_number: 8
+      total_pages: 716
+    64022231c2094d0785df973940aacc62:
+      image_group_id: I1885
+      title: ''
+      volume_number: 9
+      total_pages: 735
+    8fd11b133a244f4694e75b4df1f66e45:
+      image_group_id: I1886
+      title: ''
+      volume_number: 10
+      total_pages: 661
+    316914e2ab6c4c01a57082f1cf5f7701:
+      image_group_id: I1887
+      title: ''
+      volume_number: 11
+      total_pages: 729
+    df16c682e16f485b8d51188f0ed4403f:
+      image_group_id: I1888
+      title: ''
+      volume_number: 12
+      total_pages: 687
   author: ''
+ebook_metadata:
+  title: འཛི་སྒར་ཀོང་སྤྲུལ་གསུང་ཕྱོགས་བསྡེབས།
+  author: ''
+  sku: P007096
+  cover: cover.jpg
+  layers:
+  - pagination
